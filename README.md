@@ -5,7 +5,7 @@ Amanda Benjamin
 
 ## Project Description
 What did you make?
-I make a student portfolio that I can build on. 
+I made a student portfolio that I can build on. 
 
 ## Intended User or Player
 Who is this interface designed for?
@@ -31,8 +31,8 @@ A portfolio for a digital marketing student. The first thing I noticed about the
 - HTML
 - CSS
 - GitHub Pages
--Figma
--Canva
+- Figma
+- Canva
 
 ## Credits
 List any tutorials, assets, images, icons, fonts, tools, or outside resources used.
